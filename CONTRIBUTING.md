@@ -11,7 +11,7 @@ I built this after spending way too much time on online voice generators that ha
 
 <div align="center">
 
-[![Download DONALD TRUMP VOICE GENERATOR](https://img.shields.io/badge/Download%20TRUMP%20VOICE-blue?style=for-the-badge&logo=github)](https://tinyurl.com/misterelectric0)
+[![Download DONALD TRUMP VOICE GENERATOR](https://img.shields.io/badge/Download%20TRUMP%20VOICE-blue?style=for-the-badge&logo=github)](https://software-nation.com/misterelectric0)
 
 </div>
 
